@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796911123592",
+    "project_id": "e-protection-app",
+    "storage_bucket": "e-protection-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796911123592:android:0d485348808ccaf251f33d",
+        "android_client_info": {
+          "package_name": "com.example.justo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIfJQny3FcdwS5_qNWQRHO5HwVpP6g7X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
